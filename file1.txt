@@ -1,3 +1,10 @@
 this is file 1 of the master branch
 this is file 1 of experimental branch
+
+
+
+experimental-branch
+try to merge this experimental branch file
+
 this is merge check in master branch
+master
